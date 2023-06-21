@@ -1,5 +1,5 @@
 # HS4007-Computational-Economics-And-Public-Policy
 Assignment and Project from the July-November 2022 run of HS4007: Computational Economics and Public Policy
-The course had two main coding components: 
+The course had two main programming components: 
 - An assignment where we could do simulations pertaining to any relevant concept from the course (economics, Game Theory, etc.). I decided to build a Hawk-Dove game simulator with various strategies. Other relevant references can be found in the notebook. 
 - A course project where we could take on any economically relevant topic and simulate the outcome of a strategy or a policy. My project was to gauge the effectiveness of welfare schemes in uplifting the poverty-ridden sections of society. We look at how the conventional welfare scheme performs against no welfare, a scheme with diminishing welfare payments, and a perpetual welfare scheme in terms of government spending and the amount of welfare generated. The idea of this project was inspired by the video: [Why is it so hard to escape poverty? - Ann-Helén Bay | TED-Ed](https://youtu.be/D9N7QaIOkG8)
